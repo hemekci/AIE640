@@ -1,0 +1,14 @@
+venv/
+ads525/
+Notes/ADS525
+
+*.env
+*.gguf
+*.json
+*.txt
+*.log
+*.pt
+*.safetensors
+*.bin
+*.pth
+*.tex
