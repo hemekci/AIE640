@@ -53,6 +53,34 @@ By the end of this course, students will be able to:
 | `Notes/` | Chapter reading notes (Markdown + PDF) |
 | `Slides/` | Lecture slide decks (one per chapter) |
 
+## Getting Started
+
+**Option A – Google Colab (recommended).** Open any notebook in `Lab-Notebooks/`
+and click the **"Open in Colab"** badge at the top of the notebook. Colab provides
+a free GPU runtime (`Runtime → Change runtime type → GPU`). Each notebook installs
+its own chapter-specific dependencies in the first cell.
+
+**Option B – Local environment.**
+
+```bash
+git clone https://github.com/hemekci/AIE640.git
+cd AIE640
+python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+jupyter lab
+```
+
+> A CUDA-enabled GPU (T4 or better) is strongly recommended. Some notebooks pin
+> chapter-specific package versions in their first cell — prefer those when present.
+
+### Working through a chapter
+
+Each chapter folder follows the same pattern:
+
+- `Chapter_N_00_Start_Here.ipynb` – guided walkthrough of the chapter concepts
+- `Chapter_N_01_Easy_Tasks.ipynb` / `_02_Medium_Tasks.ipynb` / `_03_Hard_Tasks.ipynb` – graded exercises
+- `Solutions/` – reference solutions (review after attempting the tasks)
+
 ---
 
 ## Weekly Schedule
