@@ -1,6 +1,6 @@
 # AIE640 – Artificial Intelligence Applications
 
-**Institution:** Hacettepe University – Graduate School of Informatics
+**Institution:** Hacettepe University – Institute of Informatics
 **Course Code:** AIE640
 **Course Title:** Artificial Intelligence Applications (Yapay Zekâ Uygulamaları)
 **Instructor:** Assoc. Prof. Dr. Hakan Emekci
