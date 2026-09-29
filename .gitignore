@@ -1,6 +1,5 @@
 venv/
-ads525/
-Notes/ADS525
+aie640/
 
 *.env
 *.gguf
