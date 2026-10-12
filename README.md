@@ -34,9 +34,13 @@ By the end of this course, students will be able to:
 
 ## Assessment Structure
 
-- **Final Project:** 60%
-- **Homework Assignments:** 20%
-- **Project Presentation:** 20%
+| Component | Weight | Due |
+|---|---|---|
+| Paper proposal | 10% | Week 5 |
+| Homework assignments (4 × 5%) | 20% | Weeks 5, 7, 9, 13 |
+| Project & research paper | 70% | Progress report Week 10; presentations Weeks 13–14; final paper in finals week |
+
+The weekly practice exercises in the weekly schedule are ungraded; the four graded homework assignments each cover a block of weeks (HW1: Weeks 1–4, HW2: Weeks 5–6, HW3: Weeks 7–8, HW4: Weeks 9–12).
 
 ## Required Resources
 
@@ -97,7 +101,7 @@ Each chapter folder follows the same pattern:
 - First hands-on experience with pre-trained models
 
 **Lab:** Getting started with HuggingFace transformers
-**Assignment:** HW1 – Environment setup and basic model interaction
+**Practice (ungraded):** Environment setup and basic model interaction
 
 ---
 
@@ -112,7 +116,7 @@ Each chapter folder follows the same pattern:
 - Subword tokenization implementation
 
 **Lab:** Building custom tokenizers and exploring embedding spaces
-**Assignment:** HW2 – Tokenization analysis and embedding visualization
+**Practice (ungraded):** Tokenization analysis and embedding visualization
 
 ---
 
@@ -127,7 +131,7 @@ Each chapter folder follows the same pattern:
 - Decoder-only vs encoder-decoder architectures
 
 **Lab:** Implementing attention mechanisms from scratch
-**Assignment:** HW3 – Attention pattern analysis
+**Practice (ungraded):** Attention pattern analysis
 
 ---
 
@@ -142,7 +146,7 @@ Each chapter folder follows the same pattern:
 - Handling imbalanced datasets
 
 **Lab:** Building a sentiment analysis system
-**Assignment:** HW4 – Multi-class text classification project
+**Practice (ungraded):** Multi-class text classification project
 
 ---
 
@@ -157,7 +161,8 @@ Each chapter folder follows the same pattern:
 - Evaluation of clustering quality
 
 **Lab:** Discovering topics in large document collections
-**Assignment:** HW5 – Document clustering and topic analysis
+**Practice (ungraded):** Document clustering and topic analysis
+**Due:** HW1 (covers Weeks 1–4) · Paper proposal
 
 ---
 
@@ -172,7 +177,7 @@ Each chapter folder follows the same pattern:
 - Prompt optimization techniques
 
 **Lab:** Advanced prompting strategies and evaluation
-**Assignment:** HW6 – Prompt engineering for specific tasks
+**Practice (ungraded):** Prompt engineering for specific tasks
 
 ---
 
@@ -187,7 +192,7 @@ Each chapter folder follows the same pattern:
 - Text generation evaluation metrics
 
 **Lab:** Implementing custom generation strategies
-**Assignment:** Project Proposal Due
+**Due:** HW2 (covers Weeks 5–6)
 
 ---
 
@@ -202,7 +207,7 @@ Each chapter folder follows the same pattern:
 - Evaluation of retrieval quality
 
 **Lab:** Building a question-answering system with RAG
-**Assignment:** HW7 – Semantic search implementation
+**Practice (ungraded):** Semantic search implementation
 
 ---
 
@@ -217,7 +222,8 @@ Each chapter folder follows the same pattern:
 - Multimodal prompt engineering
 
 **Lab:** Building vision-language applications
-**Assignment:** HW8 – Multimodal application development
+**Practice (ungraded):** Multimodal application development
+**Due:** HW3 (covers Weeks 7–8)
 
 ---
 
@@ -232,7 +238,8 @@ Each chapter folder follows the same pattern:
 - Domain-specific embedding training
 
 **Lab:** Training custom embedding models
-**Assignment:** HW9 – Custom embedding model training
+**Practice (ungraded):** Custom embedding model training
+**Due:** Progress report (draft paper with preliminary results)
 
 ---
 
@@ -247,7 +254,7 @@ Each chapter folder follows the same pattern:
 - Overfitting prevention techniques
 
 **Lab:** Advanced fine-tuning techniques
-**Assignment:** HW10 – Model fine-tuning optimization
+**Practice (ungraded):** Model fine-tuning optimization
 
 ---
 
@@ -262,7 +269,6 @@ Each chapter folder follows the same pattern:
 - Evaluation of fine-tuned models
 
 **Lab:** Fine-tuning language models for specific domains
-**Final Project Check-in**
 
 ---
 
@@ -276,6 +282,7 @@ Each chapter folder follows the same pattern:
 - Q&A and technical discussions
 
 **Deliverable:** Final project presentations (Groups 1–4)
+**Due:** HW4 (covers Weeks 9–12)
 
 ---
 
@@ -290,7 +297,7 @@ Each chapter folder follows the same pattern:
 
 **Deliverable:**
 - Final project presentations (Groups 5–8)
-- Final project report due
+- Final paper and code: due in finals week
 - Peer evaluation forms
 
 ---
@@ -317,10 +324,10 @@ should demonstrate mastery of course concepts and include:
 - Code generation and debugging assistant
 
 **Deliverables:**
-- Project proposal (Week 7)
-- Mid-term check-in (Week 12)
+- Paper proposal (Week 5)
+- Progress report: draft paper with preliminary results (Week 10)
 - Final presentation (Weeks 13–14)
-- Final report (15–20 pages)
+- Final paper written as a research paper (finals week)
 - Complete codebase with documentation
 
 ### Presentation Format
@@ -340,18 +347,28 @@ should demonstrate mastery of course concepts and include:
 
 ## Grading Rubric
 
-### Final Project (60%)
+### Paper Proposal (10%)
+Problem and motivation, related work, data, method, evaluation plan, timeline and risks.
+
+### Homework Assignments (20%, 4 × 5%)
+- **Correctness:** 60%
+- **Code Quality:** 25%
+- **Analysis & Insights:** 15%
+
+### Project & Research Paper (70%)
+| Part | Weight |
+|---|---|
+| Progress report (Week 10) | 15% |
+| Presentation (Weeks 13–14) | 15% |
+| Final paper & code (finals week) | 40% |
+
+**Final paper & code:**
 - **Technical Innovation:** 40%
 - **Implementation Quality:** 30%
 - **Evaluation & Analysis:** 20%
 - **Documentation:** 10%
 
-### Homework Assignments (20%)
-- **Correctness:** 60%
-- **Code Quality:** 25%
-- **Analysis & Insights:** 15%
-
-### Project Presentation (20%)
+**Presentation:**
 - **Technical Content:** 40%
 - **Clarity of Communication:** 30%
 - **Demo Quality:** 20%
