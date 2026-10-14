@@ -40,7 +40,7 @@ By the end of this course, students will be able to:
 | Homework assignments (4 × 5%) | 20% | Weeks 5, 7, 9, 13 |
 | Project & research paper | 70% | Progress report Week 10; presentations Weeks 13–14; final paper in finals week |
 
-The weekly practice exercises in the weekly schedule are ungraded; the four graded homework assignments each cover a block of weeks (HW1: Weeks 1–4, HW2: Weeks 5–6, HW3: Weeks 7–8, HW4: Weeks 9–12).
+The weekly practice exercises in the weekly schedule are ungraded; the four graded homework assignments each cover a block of weeks (HW1: Weeks 1–4, HW2: Weeks 5–6, HW3: Weeks 7–8, HW4: Weeks 9–12). The project is an original research study on transformers, LLMs and their applications, written up as a research paper; see the [project guidelines and proposal rubric](https://github.com/hemekci/AIE640#final-project-guidelines).
 
 ## Required Resources
 
@@ -306,22 +306,25 @@ Each chapter folder follows the same pattern:
 
 ### Project Requirements
 
-Students work in teams of 2–3 to develop a substantial LLM-based application. Projects
-should demonstrate mastery of course concepts and include:
+Students work in teams of 2–3 on an original research study on transformers, LLMs and AI applications,
+written up as a conference-style research paper. The study must make an academic contribution: a new or
+substantially modified method, a new empirical finding, a new dataset or benchmark, or a carefully argued
+negative result. Building an application is welcome as the vehicle for the study, but the paper must answer a
+research question; an application alone, or a known model applied to a new dataset, is not enough.
 
 **Technical Components:**
-- Implementation of at least 3 major concepts from the course
-- Novel application or significant extension of existing techniques
-- Proper evaluation methodology and metrics
-- Code documentation and reproducibility
+- At least 3 major concepts from the course (e.g. embeddings, fine-tuning, prompting, RAG, multimodal models)
+- Strong baselines and ablations
+- Rigorous evaluation: benchmarks or held-out test sets, and, where outputs are judged, a human-evaluation or LLM-as-judge protocol with its limitations stated
+- Code documentation and reproducibility (fixed seeds, run instructions, pinned dependencies)
 
-**Project Ideas:**
-- Domain-specific chatbot with RAG
-- Multimodal content generation system
-- Custom fine-tuned model for specialized tasks
-- LLM-powered data analysis platform
-- Creative writing assistant with style transfer
-- Code generation and debugging assistant
+**Example research questions:**
+- How does retrieval granularity (sentence, passage, document) affect the faithfulness of RAG answers in a lower-resource language such as Turkish?
+- How well do LLM-as-judge scores agree with human ratings on a specialised task, and where do they fail?
+- Under a fixed compute budget, when does parameter-efficient fine-tuning (e.g. LoRA) beat few-shot prompting for a domain-specific classification task?
+- Do fine-tuned embedding models transfer across domains? A controlled study of retrieval quality.
+- Are vision-language model answers grounded in the image? Measuring reliance on text priors with counterfactual images.
+- Which hallucination-mitigation strategies actually reduce unsupported claims in long-document summarization?
 
 **Deliverables:**
 - Paper proposal (Week 5)
@@ -348,7 +351,30 @@ should demonstrate mastery of course concepts and include:
 ## Grading Rubric
 
 ### Paper Proposal (10%)
-Problem and motivation, related work, data, method, evaluation plan, timeline and risks.
+
+Two pages plus references in a conference template (ACL, NeurIPS, or IEEE), submitted as a PDF inside a .zip through the
+[submission portal](https://yunus.hacettepe.edu.tr/~hakanemekci/submit/). One proposal per team, with the team members listed.
+
+- **Research question and contribution:** the question, why it matters, and a one-sentence contribution statement: what will be new compared with the closest prior work.
+- **Related work:** at least 8 papers, at least 5 of them peer-reviewed. Name the 2–3 closest works and the gap your study fills.
+- **Data:** source, size, license, and how you will access it.
+- **Method:** strong baselines, your approach, and the ablations you plan.
+- **Evaluation:** benchmarks or test sets, metrics, and the human-evaluation or LLM-as-judge protocol if outputs are judged.
+- **Timeline and risks:** milestones through the final submission, compute needs, and a fallback plan.
+- **Target venue (recommended):** a conference or workshop where the work could be submitted.
+
+| Criterion | Points | What we look for |
+|---|---|---|
+| Research question and originality | 25 | A clear, testable question and an explicit contribution beyond the closest prior work |
+| Related work and positioning | 20 | At least 8 papers (5+ peer-reviewed); the closest works and the gap are named |
+| Fit with the course | 10 | Transformers, LLMs and AI applications, posed as a research question |
+| Method and baselines | 15 | Strong baselines and planned ablations |
+| Evaluation design | 15 | Benchmarks or held-out data; a sound protocol for judged outputs, with its limitations |
+| Data, feasibility and ethics | 5 | Data access and license, compute (GPU), ethical issues |
+| Timeline and risks | 5 | Realistic milestones and a fallback plan |
+| Writing | 5 | Clear, within 2 pages, conference template |
+
+**Minimum bar:** a proposal without a contribution statement and the closest prior work is returned for revision and must be resubmitted within one week.
 
 ### Homework Assignments (20%, 4 × 5%)
 - **Correctness:** 60%
