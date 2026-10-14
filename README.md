@@ -340,8 +340,8 @@ should demonstrate mastery of course concepts and include:
 
 ## Homework Policy
 
-- **Submission:** All assignments via the course management system
-- **Late Policy:** 10% deduction per day late
+- **Submission:** One .zip per assignment via the [submission portal](https://yunus.hacettepe.edu.tr/~hakanemekci/submit/)
+- **Late Policy:** 10% per day, up to 3 days; not accepted after that
 - **Collaboration:** Individual work unless specified otherwise
 - **Code Quality:** Emphasis on clean, documented, reproducible code
 
