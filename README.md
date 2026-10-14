@@ -36,11 +36,11 @@ By the end of this course, students will be able to:
 
 | Component | Weight | Due |
 |---|---|---|
-| Paper proposal | 10% | Week 5 |
-| Homework assignments (4 × 5%) | 20% | Weeks 5, 7, 9, 13 |
-| Project & research paper | 70% | Progress report Week 10; presentations Weeks 13–14; final paper in finals week |
+| Paper proposal | 10% | Week 5 (22 Oct) |
+| Homework assignments (4 × 5%) | 20% | Weeks 5, 7, 9, 13 (22 Oct, 12 Nov, 26 Nov, 24 Dec) |
+| Project & research paper | 70% | Progress report Week 10 (3 Dec); presentations Weeks 13–14 (slides due 23 Dec); final paper in finals week (date TBA) |
 
-The weekly practice exercises in the weekly schedule are ungraded; the four graded homework assignments each cover a block of weeks (HW1: Weeks 1–4, HW2: Weeks 5–6, HW3: Weeks 7–8, HW4: Weeks 9–12). The project is an original research study on transformers, LLMs and their applications, written up as a research paper; see the [project guidelines and proposal rubric](https://github.com/hemekci/AIE640#final-project-guidelines).
+The weekly practice exercises in the weekly schedule are ungraded; the four graded homework assignments each cover a block of weeks (HW1: Weeks 1–4, HW2: Weeks 5–6, HW3: Weeks 7–8, HW4: Weeks 9–12). All deadlines are 23:59 Turkey time on the date shown. The project is an original research study on transformers, LLMs and their applications, written up as a research paper; see the [project guidelines and proposal rubric](https://github.com/hemekci/AIE640#final-project-guidelines).
 
 ## Required Resources
 
@@ -162,7 +162,7 @@ Each chapter folder follows the same pattern:
 
 **Lab:** Discovering topics in large document collections
 **Practice (ungraded):** Document clustering and topic analysis
-**Due:** HW1 (covers Weeks 1–4) · Paper proposal
+**Due:** HW1 (covers Weeks 1–4) · Paper proposal — 22 Oct, 23:59
 
 ---
 
@@ -192,7 +192,7 @@ Each chapter folder follows the same pattern:
 - Text generation evaluation metrics
 
 **Lab:** Implementing custom generation strategies
-**Due:** HW2 (covers Weeks 5–6)
+**Due:** HW2 (covers Weeks 5–6) — 12 Nov, 23:59
 
 ---
 
@@ -223,7 +223,7 @@ Each chapter folder follows the same pattern:
 
 **Lab:** Building vision-language applications
 **Practice (ungraded):** Multimodal application development
-**Due:** HW3 (covers Weeks 7–8)
+**Due:** HW3 (covers Weeks 7–8) — 26 Nov, 23:59
 
 ---
 
@@ -239,7 +239,7 @@ Each chapter folder follows the same pattern:
 
 **Lab:** Training custom embedding models
 **Practice (ungraded):** Custom embedding model training
-**Due:** Progress report (draft paper with preliminary results)
+**Due:** Progress report (draft paper with preliminary results) — 3 Dec, 23:59
 
 ---
 
@@ -282,7 +282,7 @@ Each chapter folder follows the same pattern:
 - Q&A and technical discussions
 
 **Deliverable:** Final project presentations (Groups 1–4)
-**Due:** HW4 (covers Weeks 9–12)
+**Due:** HW4 (covers Weeks 9–12) — 24 Dec, 23:59 · Presentation slides (all groups) — 23 Dec, 23:59
 
 ---
 
