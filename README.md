@@ -56,6 +56,7 @@ The weekly practice exercises in the weekly schedule are ungraded; the four grad
 | `Lab-Notebooks/` | Chapter Jupyter notebooks, graded tasks (Easy / Medium / Hard) and worked solutions |
 | `Notes/` | Chapter reading notes (Markdown + PDF) |
 | `Slides/` | Lecture slide decks (one per chapter) |
+| `Homeworks/` | Graded homework briefs (HW1 now; HW2–HW4 when they open) |
 
 ## Getting Started
 
@@ -162,7 +163,7 @@ Each chapter folder follows the same pattern:
 
 **Lab:** Discovering topics in large document collections
 **Practice (ungraded):** Document clustering and topic analysis
-**Due:** HW1 (covers Weeks 1–4) · Paper proposal — 22 Oct, 23:59
+**Due:** [HW1](https://github.com/hemekci/AIE640/tree/main/Homeworks/HW1-tokens-to-classifiers) (covers Weeks 1–4) · Paper proposal — 22 Oct, 23:59
 
 ---
 
