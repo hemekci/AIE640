@@ -36,7 +36,7 @@ By the end of this course, students will be able to:
 
 | Component | Weight | Due |
 |---|---|---|
-| Paper proposal | 10% | Week 5 (22 Oct) |
+| Paper proposal | 10% | 29 Oct (extended from Week 5) |
 | Homework assignments (4 × 5%) | 20% | Weeks 5, 7, 9, 13 (22 Oct, 12 Nov, 26 Nov, 24 Dec) |
 | Project & research paper | 70% | Progress report Week 10 (3 Dec); presentations Weeks 13–14 (slides due 23 Dec); final paper in finals week (date TBA) |
 
@@ -163,7 +163,7 @@ Each chapter folder follows the same pattern:
 
 **Lab:** Discovering topics in large document collections
 **Practice (ungraded):** Document clustering and topic analysis
-**Due:** [HW1](https://github.com/hemekci/AIE640/tree/main/Homeworks/HW1-tokens-to-classifiers) (covers Weeks 1–4) · Paper proposal — 22 Oct, 23:59
+**Due:** [HW1](https://github.com/hemekci/AIE640/tree/main/Homeworks/HW1-tokens-to-classifiers) (covers Weeks 1–4) — 22 Oct, 23:59 · Paper proposal — extended to 29 Oct, 23:59
 
 ---
 
