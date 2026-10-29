@@ -56,7 +56,7 @@ The weekly practice exercises in the weekly schedule are ungraded; the four grad
 | `Lab-Notebooks/` | Chapter Jupyter notebooks, graded tasks (Easy / Medium / Hard) and worked solutions |
 | `Notes/` | Chapter reading notes (Markdown + PDF) |
 | `Slides/` | Lecture slide decks (one per chapter) |
-| `Homeworks/` | Graded homework briefs (HW1 now; HW2–HW4 when they open) |
+| `Homeworks/` | Graded homework briefs (HW1, HW2 now; HW3–HW4 when they open) |
 
 ## Getting Started
 
@@ -193,7 +193,7 @@ Each chapter folder follows the same pattern:
 - Text generation evaluation metrics
 
 **Lab:** Implementing custom generation strategies
-**Due:** HW2 (covers Weeks 5–6) — 12 Nov, 23:59
+**Due:** [HW2](https://github.com/hemekci/AIE640/tree/main/Homeworks/HW2-topics-and-prompts) (covers Weeks 5–6) — 12 Nov, 23:59
 
 ---
 
