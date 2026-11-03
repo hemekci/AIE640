@@ -390,10 +390,11 @@ Two pages plus references in a conference template (ACL, NeurIPS, or IEEE), subm
 | Final paper & code (finals week) | 40% |
 
 **Final paper & code:**
-- **Technical Innovation:** 40%
+- **Technical Innovation:** 35%
 - **Implementation Quality:** 30%
 - **Evaluation & Analysis:** 20%
-- **Documentation:** 10%
+- **Documentation:** 5%
+- **Venue Readiness:** 10% (name a target venue (conference, workshop, or journal) on the first page and follow its template and page limit; the claimed contribution must be supported by your results, and the paper should be submittable after minor revisions. Submitting is encouraged but not required; whether you submit, and whether the paper is accepted, is not graded.)
 
 **Presentation:**
 - **Technical Content:** 40%
