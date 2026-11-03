@@ -3,7 +3,7 @@
 **Institution:** Hacettepe University – Institute of Informatics
 **Course Code:** AIE640
 **Course Title:** Artificial Intelligence Applications (Yapay Zekâ Uygulamaları)
-**Instructor:** Assoc. Prof. Dr. Hakan Emekci
+**Instructor:** Assoc. Prof. Dr. Hakan Emekci · [yunus.hacettepe.edu.tr/~hakanemekci](https://yunus.hacettepe.edu.tr/~hakanemekci/)
 **Course Duration:** 14 Weeks
 **Credits:** 3
 **Prerequisites:** Python programming, basic machine learning concepts, linear algebra
